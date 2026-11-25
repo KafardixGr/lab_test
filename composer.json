@@ -1,0 +1,15 @@
+{
+    "name": "student/lab_cos",
+    "autoload": {
+        "psr-4": {
+            "Student\\LabCos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Student Politechniki",
+            "email": "student@pollub.pl"
+        }
+    ],
+    "require": {}
+}
